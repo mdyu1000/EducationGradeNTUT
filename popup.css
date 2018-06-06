@@ -1,0 +1,16 @@
+ul {
+  width: 80px;
+  padding: 0;
+  list-style-type: none;
+  text-align: center;
+}
+
+li {
+  margin:0 1px;
+  display: inline;
+  cursor: pointer;
+}
+
+.checked {
+  color: orange;
+}
